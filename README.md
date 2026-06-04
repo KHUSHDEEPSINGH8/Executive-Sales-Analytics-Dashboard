@@ -73,10 +73,10 @@ Users can dynamically filter dashboard insights using:
 
 > Add your dashboard screenshot here
 
-```markdown
+
 <img width="1317" height="740" alt="image" src="https://github.com/user-attachments/assets/71a085f9-50ad-42f3-bacf-dd8320308bfa" />
 
-```
+
 
 ---
 
