@@ -127,6 +127,7 @@ Users can dynamically analyze data based on selected criteria.
 ## 👨‍💻 Author
 
 **Khushdeep Singh**
+
 📊 Aspiring Data Analyst | 📈 Excel Dashboard Developer
 
 ### Connect With Me
