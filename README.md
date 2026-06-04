@@ -79,7 +79,8 @@ Users can dynamically analyze data based on selected criteria.
 
 ### Dashboard Screenshot
 
-![Executive Sales Dashboard](dashboard.png)
+<img width="1515" height="687" alt="Sales_dashboard_pic" src="https://github.com/user-attachments/assets/ca948c85-2037-4516-bfe4-69f3a908e369" />
+
 
 > Replace `dashboard.png` with your actual dashboard image file name.
 
